@@ -4,7 +4,7 @@
 
 ## Challenge Week 
 
-Step 1: Create a Twitter and Twitter developer account. Insctruction
+Step 1: Create a Twitter and Twitter developer account. [Click me](https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Step1_TwitterAccount)
 
 
 

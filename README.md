@@ -1,4 +1,4 @@
 # COVID Sentiment Twitter
 ## Challenge Week 
 
-![UoE](https://pbs.twimg.com/profile_images/1093513861339205632/6MKiC1p5_400x400.jpg)
+![UoE](https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/sja0q0x5fts06zauhg8c)

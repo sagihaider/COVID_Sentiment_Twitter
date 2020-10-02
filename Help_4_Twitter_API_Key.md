@@ -1,8 +1,8 @@
 1. Create a Twitter Account from your University email address (e.g. yourid@essex.ac.uk). For more details, please visit https://help.twitter.com/en/using-twitter/create-twitter-account
 
-2. Please verify your account by doing a first tweet from you account. Please share your message on joining University of Essex and use hashtag #UoE2020LovecaceChallengeWeek 
+2. Please verify your account by doing the first tweet from your account. Please share your message on joining University of Essex and use hashtag #UoE2020LovecaceChallengeWeek 
 
-3. Now it's a time for creating a twitter developer account. Please sign in to you twitter account and go to step 4
+3. Now it's a time for creating a twitter developer account. Please sign in to your twitter account and go to step 4
 
 4. Go to https://developer.twitter.com/en/apps then see on the top right and click on Create an app and it will say you 'Please apply for a Twitter developer account', please click on Apply. 
 
@@ -17,25 +17,25 @@ My answers as follows:
 
 * In your words: In English, please describe how you plan to use Twitter data and/or APIs. For students and teachers, please include the name of the school, the name of the instructor and the course number (if available). The more detailed the response, the easier it is to review and approve.
 
-I am an instructor of University of Essex and teaching in the department of computer science and electronic engineering. I am going to use this data to teach Twitter Sentiment Analysis using machine learning. 
+I am an instructor of the University of Essex and teaching in the department of computer science and electronic engineering. I am going to use this data to teach Twitter Sentiment Analysis using machine learning. 
 
 * Are you planning to analyze Twitter data? Yes
 
 * Please describe how you will analyze Twitter data including any analysis of Tweets or Twitter users.
 
-I am going to use machine learning and natural language processing in Python to analyse the real-time tweets. 
+I am going to use machine learning and natural language processing in Python to analyse real-time tweets. 
 
 * Will your app use Tweet, Retweet, like, follow, or Direct Message functionality? Yes
 
 * Please describe your planned use of these features.
 
-I am going to do machine leaning and NLP and if needed in my project I will also analyse the tweet and retweet. 
+I am going to do machine learning and NLP and if needed in my project I will also analyse the tweet and retweet. 
 
 * Do you plan to display Tweets or aggregate data about Twitter content outside of Twitter? Yes
 
 * Please describe how and where Tweets and/or data about Twitter content will be displayed outside of Twitter.
 
-Yes, I am going to use data aggregated data and summary in my project report with my group and we will use the number in project presentation. 
+Yes, I am going to use data aggregated data and summary in my project report with my group and we will use the number in the project presentation. 
 
 * Will your product, service or analysis make Twitter content or derived information available to a government entity? No
 
@@ -45,11 +45,11 @@ Yes, I am going to use data aggregated data and summary in my project report wit
 
 10. Please wait for an email and once received please verify your account.
 
-11. Now after verification, it will display a message "#Welcome to the Twitter Developer Platform". Now, please choose a name for you app and generate key. 
+11. Now after verification, it will display a message "#Welcome to the Twitter Developer Platform". Now, please choose a name for your app and generate the key. 
 
 12. Now you can close your web page and you can visit back anytime "https://developer.twitter.com/en". To get your keys, please follow the instructions:
 
-* On right top click on "Developer Portal"
-* Now on the middle of web page you will find your app name and a key symbol, please check on key symbol. 
+* On the right top click on "Developer Portal"
+* Now on the middle of the web page you will find your app name and a key symbol, please check on the key symbol. 
 * Now you can generate your "API Key & Secret" and "Access Token & Secret"
 * Please keep them safe and secure. These fours keys are important for us in doing sentiment analysis. 

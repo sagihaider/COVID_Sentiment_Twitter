@@ -4,5 +4,7 @@
 
 ## Challenge Week 
 
+Step 1: Create a Twitter and Twitter developer account. Insctruction
+
 
 

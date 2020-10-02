@@ -1,12 +1,9 @@
 # COVID Sentiment Twitter
 
-
 <p>
-<img align="right" src="https://crown-education.org/crown/wp-content/uploads/2018/03/essex-campus.jpg" width="500" height="300" />
-<img align="left" src="https://datasciencechalktalk.files.wordpress.com/2019/07/0-8.png?w=1070" width="500" height="300" />
+<img align="right" src="https://crown-education.org/crown/wp-content/uploads/2018/03/essex-campus.jpg" width="300" height="300" />
+<img align="left" src="https://datasciencechalktalk.files.wordpress.com/2019/07/0-8.png?w=1070" width="400" height="200" />
 </p>
-<br>
-
 
 *** 
 Challenge Week 

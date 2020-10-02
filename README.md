@@ -1,4 +1,6 @@
 # COVID Sentiment Twitter
 ## Challenge Week 
 
-![UoE](https://crown-education.org/crown/wp-content/uploads/2018/03/essex-campus.jpg = 40x20)
+<img src="https://crown-education.org/crown/wp-content/uploads/2018/03/essex-campus.jpg" width="100" height="100" />
+
+

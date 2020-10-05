@@ -6,6 +6,11 @@
 
 4. Go to https://developer.twitter.com/en/apps then see on the top right and click on Create an app and it will say you 'Please apply for a Twitter developer account', please click on Apply. 
 
+<p>
+<img align="center" src="https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Images/Image1.png" width="400" height="200" />
+</p>
+
+
 5. Now it will ask you "What is your primary reason for using Twitter developer tools?". Please choose "Student" option.
 
 6. It will ask you to verify your self by saying "This is you, right?" and please add a valid phone number. It will ask you a few other questions as well such as What country do you live in?

@@ -37,6 +37,17 @@ While working on this challenge, you will gain the following skills (and hopeful
 
 The hope is that some of these skills are quite general and may apply to any other task/project you undertake in the future. Of course, don’t worry if you get stuck- you can always speak to your team mentor or contact Dr Haider Raza (h.raza@essex.ac.uk) for suggestions.
 
+## General information 
+
+* For this challenge you will be working in groups of 6. You will need to come up with the design, discussing and working together as a team. Also, you will need to allocate tasks to team members (who will do what, when, how), monitor progress, take actions if something does not work as expected and so on. It is all about team management and working in a team. 
+
+* In general, every team member is expected to put around 20 hours of work.
+
+* And don’t forget to shoot videos, take pictures (both for your presentation and the 10 seconds a day video)
+
+* I would suggest using [Google Colab](http://colab.research.google.com/). Colaboratory is a Google research project created to help disseminate machine learning education and research. It's a Jupyter notebook environment that requires no setup to use and runs entirely in the cloud. You are only required to have a google account.
+
+
 
 
 ## Challenge Week Instructions

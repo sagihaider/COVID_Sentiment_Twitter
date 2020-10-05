@@ -66,7 +66,18 @@ Step 3: If you have a diffculty in reading and understanding Step 2, please see 
 
 # 3. Connecting Python Client Application to Twitter Server
 
-3.1.	Use [Google Colab](http://colab.research.google.com/) for Python Programming. Links for help about Colab [Link 1](https://www.youtube.com/watch?v=PCwROIQd-0Q) and [Link 2](https://www.youtube.com/watch?v=yEIc9z-Ad3k)
+* Use [Google Colab](http://colab.research.google.com/) for Python Programming. Links for help about using Colab [Link 1](https://www.youtube.com/watch?v=PCwROIQd-0Q), [Link 2](https://www.youtube.com/watch?v=yEIc9z-Ad3k), and [Link 3](https://www.youtube.com/results?search_query=google+colab+tutorial). 
+
+* Search which libraries to use for Twitter Sentiment Analysis Example: Tweepy, NLTK,….
 
 
+
+# 4. Learn to use Tweepy or other packages for Sentiment Analysis
+
+Follow a few suggestions as given below:
+
+* Find tutorials on web with the keyword “Twitter Sentiment Analysis”
+* See what Python Packages are available and how you can use them in your product. 
+* How each package is different from others and how you can use them to make your product best in the market. 
+* Now go to section 5: Thinking/Designing Twitter Sentiment Analysis System on paper. Make sure you have Twitter Developer APIs key before going to Section 5. 
 

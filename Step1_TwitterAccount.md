@@ -68,3 +68,8 @@ My answers as follows:
 * Now on the middle of the web page you will find your app name and a key symbol, please check on the key symbol. 
 * Now you can generate your "API Key & Secret" and "Access Token & Secret"
 * Please keep them safe and secure. These fours keys are important for us in doing sentiment analysis. 
+
+<p>
+<img align="center" src="https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Images/Image5.png" width="600" height="350" />
+</p>
+

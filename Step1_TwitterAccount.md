@@ -1,3 +1,5 @@
+## Please follow given steps to create a Twitter account and get your KEYS and TOKENs
+
 1. Create a Twitter Account from your University email address (e.g. yourid@essex.ac.uk). For more details, please visit https://help.twitter.com/en/using-twitter/create-twitter-account
 
 2. Please verify your account by doing the first tweet from your account. Please share your message on joining University of Essex and use hashtag #UoE2020LovecaceChallengeWeek 

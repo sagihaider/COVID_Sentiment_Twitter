@@ -7,7 +7,7 @@
 4. Go to https://developer.twitter.com/en/apps then see on the top right and click on Create an app and it will say you 'Please apply for a Twitter developer account', please click on Apply. 
 
 <p>
-<img align="center" src="https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Images/Image1.png" width="400" height="200" />
+<img align="center" src="https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Images/Image2.png" width="400" height="200" />
 </p>
 
 

@@ -22,7 +22,7 @@ My answers as follows:
 
 * In your words: In English, please describe how you plan to use Twitter data and/or APIs. For students and teachers, please include the name of the school, the name of the instructor and the course number (if available). The more detailed the response, the easier it is to review and approve.
 
-My answer: ```I am an instructor of the University of Essex and teaching in the department of computer science and electronic engineering. I am going to use this data to teach Twitter Sentiment Analysis using machine learning.```
+<span style="color:blue">some *My answer:* text</span> ```I am an instructor of the University of Essex and teaching in the department of computer science and electronic engineering. I am going to use this data to teach Twitter Sentiment Analysis using machine learning.```
 
 * Are you planning to analyze Twitter data? My answer:  ```Yes```
 

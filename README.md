@@ -6,6 +6,8 @@
 
 *** 
 
+# 1. About Challenge?
+
 ## What is sentiment analysis?
 
 Sentiment Analysis is the method of 'computationally' defining if a piece of writing is positive, negative or neutral. It’s also known as opinion mining, deriving the opinion of a presenter.
@@ -47,14 +49,22 @@ The hope is that some of these skills are quite general and may apply to any oth
 
 * I would suggest using [Google Colab](http://colab.research.google.com/). Colaboratory is a Google research project created to help disseminate machine learning education and research. It's a Jupyter notebook environment that requires no setup to use and runs entirely in the cloud. You are only required to have a google account.
 
+*** 
+
+# 2. Scraping Tweets from Twitter
+
+Following are the suggested steps that you need to follow before you can scrape tweets from Twitter:
 
 
+Step 1: First see what is [Twitter](https://www.youtube.com/watch?v=CWKRCDU-fVk) 
 
-## Challenge Week Instructions
+Step 2: Create a Twitter Account and Twitter developer account to get your API keys and tokens. Step by step guide is available here [Click me](https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Step1_TwitterAccount.md)
 
-Please follow the steps.
+Step 3: If you have a diffculty in reading and understanding Step 2, please see this Video about how to create and get API keys and tokens. 
 
-Step 1: Create a Twitter and Twitter developer account to get your API keys and token. Step by step guide is available here [Click me](https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Step1_TwitterAccount.md)
+*** 
+
+# 2. Scraping Tweets from Twitter
 
 Step 2: Please create your Google account using this [link](https://accounts.google.com/signup?hl=en)
 

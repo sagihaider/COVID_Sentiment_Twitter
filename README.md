@@ -1,7 +1,7 @@
 # COVID Sentiment Twitter
 
 <p>
-<img align="right" src="https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Images/Image1.png" width="900" height="400" />
+<img align="right" src="https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Images/Image1.png" width="400" height="200" />
 </p>
 
 *** 

@@ -22,13 +22,13 @@ My answers as follows:
 
 * In your words: In English, please describe how you plan to use Twitter data and/or APIs. For students and teachers, please include the name of the school, the name of the instructor and the course number (if available). The more detailed the response, the easier it is to review and approve.
 
-I am an instructor of the University of Essex and teaching in the department of computer science and electronic engineering. I am going to use this data to teach Twitter Sentiment Analysis using machine learning. 
+```I am an instructor of the University of Essex and teaching in the department of computer science and electronic engineering. I am going to use this data to teach Twitter Sentiment Analysis using machine learning.```
 
-* Are you planning to analyze Twitter data? Yes
+* Are you planning to analyze Twitter data? ```Yes```
 
 * Please describe how you will analyze Twitter data including any analysis of Tweets or Twitter users.
 
-I am going to use machine learning and natural language processing in Python to analyse real-time tweets. 
+```I am going to use machine learning and natural language processing in Python to analyse real-time tweets. ```
 
 * Will your app use Tweet, Retweet, like, follow, or Direct Message functionality? Yes
 

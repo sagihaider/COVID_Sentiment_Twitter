@@ -70,7 +70,7 @@ Step 3: If you have a diffculty in reading and understanding Step 2, please see 
 
 * Search which libraries to use for Twitter Sentiment Analysis Example: Tweepy, NLTK,….
 
-
+*** 
 
 # 4. Learn to use Tweepy or other packages for Sentiment Analysis
 
@@ -81,3 +81,15 @@ Follow a few suggestions as given below:
 * How each package is different from others and how you can use them to make your product best in the market. 
 * Now go to section 5: Thinking/Designing Twitter Sentiment Analysis System on paper. Make sure you have Twitter Developer APIs key before going to Section 5. 
 
+*** 
+
+# 5. Thinking/Designing Twitter Sentiment Analysis system on paper
+
+Once you become familiar with the building blocks, how to trigger them you need to start thinking about the overall design of your Twitter Sentiment Analysis-
+
+* What building blocks are needed?
+* How to connect them?
+* What parameters need to be passed?
+* How will the demo look like?
+* Any additional features you can think of?
+* Come up with a block diagram in the paper?

@@ -22,27 +22,27 @@ My answers as follows:
 
 * In your words: In English, please describe how you plan to use Twitter data and/or APIs. For students and teachers, please include the name of the school, the name of the instructor and the course number (if available). The more detailed the response, the easier it is to review and approve.
 
-<span style="color:blue">some *My answer:* text</span> ```I am an instructor of the University of Essex and teaching in the department of computer science and electronic engineering. I am going to use this data to teach Twitter Sentiment Analysis using machine learning.```
+**My answer:**** ```I am an instructor of the University of Essex and teaching in the department of computer science and electronic engineering. I am going to use this data to teach Twitter Sentiment Analysis using machine learning.```
 
-* Are you planning to analyze Twitter data? My answer:  ```Yes```
+* Are you planning to analyze Twitter data? **My answer:**  ```Yes```
 
 * Please describe how you will analyze Twitter data including any analysis of Tweets or Twitter users.
 
-My answer: ```I am going to use machine learning and natural language processing in Python to analyse real-time tweets. ```
+**My answer:** ```I am going to use machine learning and natural language processing in Python to analyse real-time tweets. ```
 
-* Will your app use Tweet, Retweet, like, follow, or Direct Message functionality? My answer: ```Yes```
+* Will your app use Tweet, Retweet, like, follow, or Direct Message functionality? **My answer:** ```Yes```
 
 * Please describe your planned use of these features.
 
-My answer: ```I am going to do machine learning and NLP and if needed in my project I will also analyse the tweet and retweet.``` 
+**My answer:** ```I am going to do machine learning and NLP and if needed in my project I will also analyse the tweet and retweet.``` 
 
-* Do you plan to display Tweets or aggregate data about Twitter content outside of Twitter? ```Yes```
+* Do you plan to display Tweets or aggregate data about Twitter content outside of Twitter? **My answer:** ```Yes```
 
 * Please describe how and where Tweets and/or data about Twitter content will be displayed outside of Twitter.
 
-My answer: ```Yes, I am going to use data aggregated data and summary in my project report with my group and we will use the number in the project presentation. ```
+**My answer:** ```Yes, I am going to use data aggregated data and summary in my project report with my group and we will use the number in the project presentation. ```
 
-* Will your product, service or analysis make Twitter content or derived information available to a government entity? My answer: ```No```
+* Will your product, service or analysis make Twitter content or derived information available to a government entity? **My answer:** ```No```
 
 8. Please, press next and click on "Looks good" button on the right bottom of the screen. 
 

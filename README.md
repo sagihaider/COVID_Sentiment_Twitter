@@ -60,15 +60,13 @@ Step 1: First see what is [Twitter](https://www.youtube.com/watch?v=CWKRCDU-fVk)
 
 Step 2: Create a Twitter Account and Twitter developer account to get your API keys and tokens. Step by step guide is available here [Click me](https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Step1_TwitterAccount.md)
 
-Step 3: If you have a diffculty in reading and understanding Step 2, please see this Video about how to create and get API keys and tokens. 
+Step 3: If you have a diffculty in reading and understanding Step 2, please see this [Video](https://www.youtube.com/watch?v=qyvMuj3U-Js&t=76s) about how to create and get API keys and tokens. 
 
 *** 
 
-# 2. Scraping Tweets from Twitter
+# 3. Connecting Python Client Application to Twitter Server
 
-Step 2: Please create your Google account using this [link](https://accounts.google.com/signup?hl=en)
-
-Step 3: 
+3.1.	Use [Google Colab](http://colab.research.google.com/) for Python Programming. Links for help about Colab [Link 1](https://www.youtube.com/watch?v=PCwROIQd-0Q) and [Link 2](https://www.youtube.com/watch?v=yEIc9z-Ad3k)
 
 
 

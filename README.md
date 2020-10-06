@@ -99,6 +99,9 @@ Once you become familiar with the building blocks, how to trigger them you need 
 # 6. Implemention and basic codes for first model
 
 
+First basic [Twitter Sentiment Analysis](https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Covid19_Twitter_SentimentAnalysis.ipynb) model for youe help. Please use this as a base model to develop more advanced model and try to improve the performance of the model.  
+
+
 *** 
 
 # 7. Implementing the Design, Testing Twitter Sentiment Analysis on the Real Time Tweets

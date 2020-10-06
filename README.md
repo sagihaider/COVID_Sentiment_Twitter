@@ -99,8 +99,11 @@ Once you become familiar with the building blocks, how to trigger them you need 
 # 6. Implemention and basic codes for first model
 
 
-First basic [Twitter Sentiment Analysis](https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Covid19_Twitter_SentimentAnalysis.ipynb) model for youe help. Please use this as a base model to develop more advanced model and try to improve the performance of the model.  
+First basic [Twitter Sentiment Analysis](https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Covid19_Twitter_SentimentAnalysis.ipynb) model for your help. Please use this as a base model to develop more advanced model and try to improve the performance of the model.  
 
+* A lot of students gets confused about what does it mean by improving the model. To read more, please [click me](https://www.analyticsvidhya.com/blog/2015/12/improve-machine-learning-results/) an article from analyticsvidhya.com. 
+
+* 3 Building Blocks of Machine Learning you Should Know as a Data Scientist. To read more, please [click me](https://www.analyticsvidhya.com/blog/2020/06/3-building-blocks-machine-learning-data-scientist/#:~:text=And%20the%20Three%20Key%20Building,Processing%20and%20Storing%20the%20Data)
 
 *** 
 

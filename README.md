@@ -93,3 +93,23 @@ Once you become familiar with the building blocks, how to trigger them you need 
 * How will the demo look like?
 * Any additional features you can think of?
 * Come up with a block diagram in the paper?
+
+*** 
+
+# 6. Implemention and basic codes for first model
+
+
+*** 
+
+# 7. Implementing the Design, Testing Twitter Sentiment Analysis on the Real Time Tweets
+
+Make sure that you test individual subsystems separately before you test the full system- it always helps when you are designing a complex system, makes debugging easier. When you are ready to test on the real time tweets, contact the GLA or Dr Raza if you need any help. 
+
+*** 
+
+# 8. Additional Functionalities’ (open to your creativity)
+In addition to the basic Twitter Sentiment Analysis, you may think of other features that will make your demo more impressive, such as 
+* Make Sentiment Analysis working on current issues such COVID19 or any other live news topic such as US Elections. 
+* Give an alert when the sentiments of population change during any activity such as Football match. 
+* Any other novel ideas are most welcome. 
+

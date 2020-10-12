@@ -14,13 +14,13 @@
  </table>
  
  
- #### Our Academics 
+ #### Our GLAs
 
 <table>
   <tr>
-    <th>Dr Zulfikar Ali</th>
-     <th>Dr Jianhua He</th>
-     <th>Dr Cunjin Luo</th>
+    <th>Ms Sultana Mushfika</th>
+     <th>Mr Milan Rybar</th>
+     <th>Mr Victor C Perez</th>
   </tr>
   <tr>
     <th><img src="https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Images/Mushfika.jpg" width=270 height=270></th>

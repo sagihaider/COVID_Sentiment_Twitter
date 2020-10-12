@@ -18,8 +18,8 @@
 
 <table>
   <tr>
-    <th>Ms Sultana Mushfika</th>
-     <th>Mr Milan Rybar</th>
+     <th> <a href="https://www.essex.ac.uk/people/sulta41406/mushfika-sultana/">Ms Sultana Mushfika</a> </th>
+     <th> <a href="https://www.essex.ac.uk/people/rybar95903/milan-rybar">Mr Milan Rybar</a> </th>
      <th>Mr Victor C Perez</th>
   </tr>
   <tr>

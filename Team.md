@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th> Dr Zulfikar Ali </th>
+    <th> [Dr Zulfiqar Ali](https://www.essex.ac.uk/people/alizu48900/zulfiqar-ali) </th>
      <th>Dr Jianhua He</th>
      <th>Dr Cunjin Luo</th>
   </tr>

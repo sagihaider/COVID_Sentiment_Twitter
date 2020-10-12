@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-    <th> <a href="https://www.essex.ac.uk/people/alizu48900/zulfiqar-ali/">Dr Zulfiqar Ali]</a> </th>
-     <th>Dr Jianhua He</th>
-     <th>Dr Cunjin Luo</th>
+    <th> <a href="https://www.essex.ac.uk/people/alizu48900/zulfiqar-ali/">Dr Zulfiqar Ali</a> </th>
+    <th> <a href="https://www.essex.ac.uk/people/hejia61606/jianhua-he/">Dr Jianhua He</a> </th>
+    <th> <a href="https://www.essex.ac.uk/people/luocu65405/cunjin-luo/">Dr Cunjin Luo</a> </th>
   </tr>
   <tr>
     <th><img src="https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Images/ZA.jpg" width=270 height=270></th>

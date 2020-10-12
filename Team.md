@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td>Dr Zulfikar Ali</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+     <td>Dr Jianhua He</td>
+     <td>Dr Cunjin Luo</td>
   </tr>
   <tr>
     <td><img src="https://github.com/sagihaider/COVID_Sentiment_Twitter/blob/master/Images/ZA.jpg" width=270 height=270></td>

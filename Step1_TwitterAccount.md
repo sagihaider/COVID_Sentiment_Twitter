@@ -2,7 +2,7 @@
 
 1. Create a Twitter Account from your University email address (e.g. yourid@essex.ac.uk). For more details, please visit https://help.twitter.com/en/using-twitter/create-twitter-account
 
-2. Please verify your account by doing the first tweet from your account. Please share your message on joining University of Essex and use hashtag #UoE2020LovecaceChallengeWeek 
+2. Please verify your account by doing the first tweet from your account. Please share your message on joining University of Essex and use hashtag #UoE2020LovelaceChallengeWeek 
 
 3. Now it's a time for creating a twitter developer account. Please sign in to your twitter account and go to step 4
 

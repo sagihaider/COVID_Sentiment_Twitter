@@ -6,6 +6,8 @@
 
 *** 
 
+### Please tweet your work and use hashtag `#UoE2020LovelaceChallengeWeek`
+
 # 1. About Challenge?
 
 ## What is sentiment analysis?
